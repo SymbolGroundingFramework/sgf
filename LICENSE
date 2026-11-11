@@ -1,0 +1,50 @@
+# Licence
+
+Three kinds of material live in this repository, under three different terms.
+They are separated here because collapsing them into one licence would either
+over-claim or under-grant.
+
+---
+
+## 1. The architecture — public domain
+
+The concepts, grammars, protocols, formats and operating-system designs
+described in this repository and in the book series are dedicated to the public
+domain, irrevocably, as published. Anyone may use them. No permission is
+required. No fee will ever be charged. No patent claim will be made, now or in
+the future, by the author or by anyone acting on his behalf.
+
+The governing statement is **[THIS_ARCHITECTURE_IS_YOURS.md](THIS_ARCHITECTURE_IS_YOURS.md)**.
+Where this summary and that document differ, that document governs.
+
+## 2. Reference implementation code — Apache 2.0
+
+Any source code in this repository — now or added later — is released under the
+Apache License, Version 2.0. You may use, modify and redistribute it, including
+commercially, subject to the standard Apache 2.0 terms, which include a patent
+peace clause.
+
+## 3. The books and prose — © James Lee Stäkelum
+
+The book series and the written argument are copyrighted in the usual way. That
+covers the PDF in `books/` and the prose of the essays, including
+`THE_SYNAPSE.md`.
+
+You may re-express the architecture in your own words, write your own
+implementations, and build products on it, without citing the books. You may
+not reproduce the book text itself.
+
+---
+
+## In practice
+
+| You want to | Allowed |
+|---|---|
+| Build a system on this architecture | Yes — no permission, no fee |
+| Re-implement it in any language | Yes |
+| Use it commercially | Yes |
+| Fork the specification and run your own consensus | Yes — this is the intent |
+| Redistribute the book PDF or its text | No — copyrighted prose |
+| Redistribute the specification text as your own | No — but re-expressing the ideas is fine |
+
+Attribution is welcome and not required, with one exception: the prose.
